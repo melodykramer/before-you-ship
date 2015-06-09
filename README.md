@@ -87,10 +87,19 @@ Accessibility should be incorporated and tested throughout the design and develo
 
 ## Policy & Informal
 
-* **Analytics:** All of our sites should have code snippets for 18F and Digital Analytics Program Google Analytics as well as Google Webmaster Tools.
 * Agency or Organization Communications Office
 * Legislative Affairs
 * Office of General Counsel
+
+### Analytics
+
+All of our sites should have code snippets for
+
+* 18F Google Analytics (18F only)
+* Digital Analytics Program (DAP)
+* Google Webmaster Tools
+
+Take a look at our [analytics standards](https://github.com/18F/analytics-standards) for instructions.
 
 ## 18F Internal
 
